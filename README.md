@@ -32,6 +32,12 @@
 
 ---
 
+## 🎮 About the Game
+
+Kaiju is a collection of 2D and 3D audio visualizations that uses your system audio to drive its effects in real time.
+
+---
+
 ## ❌ Problem: Games are expensive and require internet
 
 - **High Cost** — Full-price games cost $60–70 at launch
@@ -89,10 +95,12 @@
 
 | **Component** | **Windows** | **macOS** |
 |---------------|-------------|-----------|
-| **OS** | Windows 10/11 (64-bit) | macOS 12 Monterey or later |
-| **RAM** | 8 GB+ | 8 GB+ |
-| **Storage** | 2 GB free | 2 GB free |
-| **Processor** | Intel i5 / AMD Ryzen 5 | Intel or Apple Silicon |
+| **Processor** | Min: Intel i5 @ 2GHz or equivalent / Rec: Intel i7 @ 3GHz or equivalent | Intel Core i5 / Apple M1 |
+| **Memory** | Min: 4 GB RAM / Rec: 8 GB RAM | 4 GB RAM |
+| **Graphics** | Min: GTX 970 or equivalent / Rec: GTX 1070 or equivalent | Metal-capable GPU |
+| **DirectX** | Version 11 | Version 11 |
+| **Storage** | 1 GB available space | 1 GB available space |
+| **OS *** | Windows 8 | Windows 8 |
 
 ---
 
